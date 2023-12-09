@@ -1,0 +1,2 @@
+2023-12-09 {'docs\\cooking\\txt\\cookingDoc.txt', 'docs\\sports\\txt\\supposed_sports.txt', 'docs\\travel\\txt\\travelDoc.txt', 'docs\\travel\\txt\\supposed_travel.txt', 'docs\\travel\\txt\\file2.txt', 'docs\\sports\\txt\\sportsDoc.txt'}
+2023-12-03 {'docs\\travel\\docx\\modern_travel.docx'}
